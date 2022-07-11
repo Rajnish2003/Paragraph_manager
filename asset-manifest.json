@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Paragraph_manager/static/css/main.31d6cfe0.css",
+    "main.js": "/Paragraph_manager/static/js/main.cb778020.js",
+    "static/js/787.719ec76d.chunk.js": "/Paragraph_manager/static/js/787.719ec76d.chunk.js",
+    "index.html": "/Paragraph_manager/index.html",
+    "main.cb778020.js.map": "/Paragraph_manager/static/js/main.cb778020.js.map",
+    "787.719ec76d.chunk.js.map": "/Paragraph_manager/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.cb778020.js"
+  ]
+}
